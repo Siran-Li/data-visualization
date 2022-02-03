@@ -1,0 +1,4114 @@
+[
+    {
+        "type": "Grass",
+        "strength": 318.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Grass",
+        "strength": 525.0
+    },
+    {
+        "type": "Grass",
+        "strength": 625.0
+    },
+    {
+        "type": "Fire",
+        "strength": 309.0
+    },
+    {
+        "type": "Fire",
+        "strength": 405.0
+    },
+    {
+        "type": "Fire",
+        "strength": 534.0
+    },
+    {
+        "type": "Fire",
+        "strength": 634.0
+    },
+    {
+        "type": "Fire",
+        "strength": 634.0
+    },
+    {
+        "type": "Water",
+        "strength": 314.0
+    },
+    {
+        "type": "Water",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Water",
+        "strength": 630.0
+    },
+    {
+        "type": "Bug",
+        "strength": 195.0
+    },
+    {
+        "type": "Bug",
+        "strength": 205.0
+    },
+    {
+        "type": "Bug",
+        "strength": 395.0
+    },
+    {
+        "type": "Bug",
+        "strength": 195.0
+    },
+    {
+        "type": "Bug",
+        "strength": 205.0
+    },
+    {
+        "type": "Bug",
+        "strength": 395.0
+    },
+    {
+        "type": "Bug",
+        "strength": 495.0
+    },
+    {
+        "type": "Normal",
+        "strength": 251.0
+    },
+    {
+        "type": "Normal",
+        "strength": 349.0
+    },
+    {
+        "type": "Normal",
+        "strength": 479.0
+    },
+    {
+        "type": "Normal",
+        "strength": 579.0
+    },
+    {
+        "type": "Normal",
+        "strength": 253.0
+    },
+    {
+        "type": "Dark",
+        "strength": 253.0
+    },
+    {
+        "type": "Normal",
+        "strength": 413.0
+    },
+    {
+        "type": "Dark",
+        "strength": 413.0
+    },
+    {
+        "type": "Normal",
+        "strength": 262.0
+    },
+    {
+        "type": "Normal",
+        "strength": 442.0
+    },
+    {
+        "type": "Poison",
+        "strength": 288.0
+    },
+    {
+        "type": "Poison",
+        "strength": 448.0
+    },
+    {
+        "type": "Electric",
+        "strength": 320.0
+    },
+    {
+        "type": "Electric",
+        "strength": 430.0
+    },
+    {
+        "type": "Electric",
+        "strength": 485.0
+    },
+    {
+        "type": "Electric",
+        "strength": 485.0
+    },
+    {
+        "type": "Ground",
+        "strength": 300.0
+    },
+    {
+        "type": "Ice",
+        "strength": 300.0
+    },
+    {
+        "type": "Ground",
+        "strength": 450.0
+    },
+    {
+        "type": "Ice",
+        "strength": 450.0
+    },
+    {
+        "type": "Poison",
+        "strength": 275.0
+    },
+    {
+        "type": "Poison",
+        "strength": 365.0
+    },
+    {
+        "type": "Poison",
+        "strength": 505.0
+    },
+    {
+        "type": "Poison",
+        "strength": 273.0
+    },
+    {
+        "type": "Poison",
+        "strength": 365.0
+    },
+    {
+        "type": "Poison",
+        "strength": 505.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 323.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 483.0
+    },
+    {
+        "type": "Fire",
+        "strength": 299.0
+    },
+    {
+        "type": "Ice",
+        "strength": 299.0
+    },
+    {
+        "type": "Fire",
+        "strength": 505.0
+    },
+    {
+        "type": "Ice",
+        "strength": 505.0
+    },
+    {
+        "type": "Normal",
+        "strength": 270.0
+    },
+    {
+        "type": "Normal",
+        "strength": 435.0
+    },
+    {
+        "type": "Poison",
+        "strength": 245.0
+    },
+    {
+        "type": "Poison",
+        "strength": 455.0
+    },
+    {
+        "type": "Grass",
+        "strength": 320.0
+    },
+    {
+        "type": "Grass",
+        "strength": 395.0
+    },
+    {
+        "type": "Grass",
+        "strength": 490.0
+    },
+    {
+        "type": "Bug",
+        "strength": 285.0
+    },
+    {
+        "type": "Bug",
+        "strength": 405.0
+    },
+    {
+        "type": "Bug",
+        "strength": 305.0
+    },
+    {
+        "type": "Bug",
+        "strength": 450.0
+    },
+    {
+        "type": "Ground",
+        "strength": 265.0
+    },
+    {
+        "type": "Ground",
+        "strength": 265.0
+    },
+    {
+        "type": "Ground",
+        "strength": 425.0
+    },
+    {
+        "type": "Ground",
+        "strength": 425.0
+    },
+    {
+        "type": "Normal",
+        "strength": 290.0
+    },
+    {
+        "type": "Dark",
+        "strength": 290.0
+    },
+    {
+        "type": "Steel",
+        "strength": 290.0
+    },
+    {
+        "type": "Normal",
+        "strength": 440.0
+    },
+    {
+        "type": "Dark",
+        "strength": 440.0
+    },
+    {
+        "type": "Water",
+        "strength": 320.0
+    },
+    {
+        "type": "Water",
+        "strength": 500.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 305.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 455.0
+    },
+    {
+        "type": "Fire",
+        "strength": 350.0
+    },
+    {
+        "type": "Fire",
+        "strength": 555.0
+    },
+    {
+        "type": "Water",
+        "strength": 300.0
+    },
+    {
+        "type": "Water",
+        "strength": 385.0
+    },
+    {
+        "type": "Water",
+        "strength": 510.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 310.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 400.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 500.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 305.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 405.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 505.0
+    },
+    {
+        "type": "Grass",
+        "strength": 300.0
+    },
+    {
+        "type": "Grass",
+        "strength": 390.0
+    },
+    {
+        "type": "Grass",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 335.0
+    },
+    {
+        "type": "Water",
+        "strength": 515.0
+    },
+    {
+        "type": "Rock",
+        "strength": 300.0
+    },
+    {
+        "type": "Rock",
+        "strength": 300.0
+    },
+    {
+        "type": "Rock",
+        "strength": 390.0
+    },
+    {
+        "type": "Rock",
+        "strength": 390.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Fire",
+        "strength": 410.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 410.0
+    },
+    {
+        "type": "Fire",
+        "strength": 500.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 500.0
+    },
+    {
+        "type": "Water",
+        "strength": 315.0
+    },
+    {
+        "type": "Water",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 590.0
+    },
+    {
+        "type": "Electric",
+        "strength": 325.0
+    },
+    {
+        "type": "Electric",
+        "strength": 465.0
+    },
+    {
+        "type": "Normal",
+        "strength": 377.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 377.0
+    },
+    {
+        "type": "Normal",
+        "strength": 310.0
+    },
+    {
+        "type": "Normal",
+        "strength": 470.0
+    },
+    {
+        "type": "Water",
+        "strength": 325.0
+    },
+    {
+        "type": "Water",
+        "strength": 475.0
+    },
+    {
+        "type": "Poison",
+        "strength": 325.0
+    },
+    {
+        "type": "Poison",
+        "strength": 325.0
+    },
+    {
+        "type": "Poison",
+        "strength": 500.0
+    },
+    {
+        "type": "Poison",
+        "strength": 500.0
+    },
+    {
+        "type": "Water",
+        "strength": 305.0
+    },
+    {
+        "type": "Water",
+        "strength": 525.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 310.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 405.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 500.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 600.0
+    },
+    {
+        "type": "Rock",
+        "strength": 385.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 328.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 483.0
+    },
+    {
+        "type": "Water",
+        "strength": 325.0
+    },
+    {
+        "type": "Water",
+        "strength": 475.0
+    },
+    {
+        "type": "Electric",
+        "strength": 330.0
+    },
+    {
+        "type": "Electric",
+        "strength": 490.0
+    },
+    {
+        "type": "Grass",
+        "strength": 325.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Ground",
+        "strength": 320.0
+    },
+    {
+        "type": "Ground",
+        "strength": 425.0
+    },
+    {
+        "type": "Fire",
+        "strength": 425.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 455.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 455.0
+    },
+    {
+        "type": "Normal",
+        "strength": 385.0
+    },
+    {
+        "type": "Poison",
+        "strength": 340.0
+    },
+    {
+        "type": "Poison",
+        "strength": 490.0
+    },
+    {
+        "type": "Poison",
+        "strength": 490.0
+    },
+    {
+        "type": "Ground",
+        "strength": 345.0
+    },
+    {
+        "type": "Ground",
+        "strength": 485.0
+    },
+    {
+        "type": "Normal",
+        "strength": 450.0
+    },
+    {
+        "type": "Grass",
+        "strength": 435.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Normal",
+        "strength": 590.0
+    },
+    {
+        "type": "Water",
+        "strength": 295.0
+    },
+    {
+        "type": "Water",
+        "strength": 440.0
+    },
+    {
+        "type": "Water",
+        "strength": 320.0
+    },
+    {
+        "type": "Water",
+        "strength": 450.0
+    },
+    {
+        "type": "Water",
+        "strength": 340.0
+    },
+    {
+        "type": "Water",
+        "strength": 520.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 460.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 460.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Ice",
+        "strength": 455.0
+    },
+    {
+        "type": "Electric",
+        "strength": 490.0
+    },
+    {
+        "type": "Fire",
+        "strength": 495.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Bug",
+        "strength": 600.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 200.0
+    },
+    {
+        "type": "Water",
+        "strength": 540.0
+    },
+    {
+        "type": "Water",
+        "strength": 640.0
+    },
+    {
+        "type": "Water",
+        "strength": 535.0
+    },
+    {
+        "type": "Normal",
+        "strength": 288.0
+    },
+    {
+        "type": "Normal",
+        "strength": 325.0
+    },
+    {
+        "type": "Normal",
+        "strength": 435.0
+    },
+    {
+        "type": "Water",
+        "strength": 525.0
+    },
+    {
+        "type": "Electric",
+        "strength": 525.0
+    },
+    {
+        "type": "Fire",
+        "strength": 525.0
+    },
+    {
+        "type": "Normal",
+        "strength": 395.0
+    },
+    {
+        "type": "Rock",
+        "strength": 355.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 355.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 515.0
+    },
+    {
+        "type": "Rock",
+        "strength": 615.0
+    },
+    {
+        "type": "Normal",
+        "strength": 540.0
+    },
+    {
+        "type": "Ice",
+        "strength": 580.0
+    },
+    {
+        "type": "Electric",
+        "strength": 580.0
+    },
+    {
+        "type": "Fire",
+        "strength": 580.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 300.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 420.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 780.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 780.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 318.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Grass",
+        "strength": 525.0
+    },
+    {
+        "type": "Fire",
+        "strength": 309.0
+    },
+    {
+        "type": "Fire",
+        "strength": 405.0
+    },
+    {
+        "type": "Fire",
+        "strength": 534.0
+    },
+    {
+        "type": "Water",
+        "strength": 314.0
+    },
+    {
+        "type": "Water",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Normal",
+        "strength": 215.0
+    },
+    {
+        "type": "Normal",
+        "strength": 415.0
+    },
+    {
+        "type": "Normal",
+        "strength": 262.0
+    },
+    {
+        "type": "Normal",
+        "strength": 452.0
+    },
+    {
+        "type": "Bug",
+        "strength": 265.0
+    },
+    {
+        "type": "Bug",
+        "strength": 390.0
+    },
+    {
+        "type": "Bug",
+        "strength": 250.0
+    },
+    {
+        "type": "Bug",
+        "strength": 400.0
+    },
+    {
+        "type": "Poison",
+        "strength": 535.0
+    },
+    {
+        "type": "Water",
+        "strength": 330.0
+    },
+    {
+        "type": "Water",
+        "strength": 460.0
+    },
+    {
+        "type": "Electric",
+        "strength": 205.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 218.0
+    },
+    {
+        "type": "Normal",
+        "strength": 210.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 245.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 405.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 320.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 470.0
+    },
+    {
+        "type": "Electric",
+        "strength": 280.0
+    },
+    {
+        "type": "Electric",
+        "strength": 365.0
+    },
+    {
+        "type": "Electric",
+        "strength": 510.0
+    },
+    {
+        "type": "Electric",
+        "strength": 610.0
+    },
+    {
+        "type": "Grass",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 250.0
+    },
+    {
+        "type": "Water",
+        "strength": 420.0
+    },
+    {
+        "type": "Rock",
+        "strength": 410.0
+    },
+    {
+        "type": "Water",
+        "strength": 500.0
+    },
+    {
+        "type": "Grass",
+        "strength": 250.0
+    },
+    {
+        "type": "Grass",
+        "strength": 340.0
+    },
+    {
+        "type": "Grass",
+        "strength": 460.0
+    },
+    {
+        "type": "Normal",
+        "strength": 360.0
+    },
+    {
+        "type": "Grass",
+        "strength": 180.0
+    },
+    {
+        "type": "Grass",
+        "strength": 425.0
+    },
+    {
+        "type": "Bug",
+        "strength": 390.0
+    },
+    {
+        "type": "Water",
+        "strength": 210.0
+    },
+    {
+        "type": "Water",
+        "strength": 430.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 525.0
+    },
+    {
+        "type": "Dark",
+        "strength": 525.0
+    },
+    {
+        "type": "Dark",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 490.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 435.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 336.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 405.0
+    },
+    {
+        "type": "Normal",
+        "strength": 455.0
+    },
+    {
+        "type": "Bug",
+        "strength": 290.0
+    },
+    {
+        "type": "Bug",
+        "strength": 465.0
+    },
+    {
+        "type": "Normal",
+        "strength": 415.0
+    },
+    {
+        "type": "Ground",
+        "strength": 430.0
+    },
+    {
+        "type": "Steel",
+        "strength": 510.0
+    },
+    {
+        "type": "Steel",
+        "strength": 610.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 300.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 450.0
+    },
+    {
+        "type": "Water",
+        "strength": 440.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Bug",
+        "strength": 600.0
+    },
+    {
+        "type": "Bug",
+        "strength": 505.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Bug",
+        "strength": 600.0
+    },
+    {
+        "type": "Dark",
+        "strength": 430.0
+    },
+    {
+        "type": "Normal",
+        "strength": 330.0
+    },
+    {
+        "type": "Normal",
+        "strength": 500.0
+    },
+    {
+        "type": "Fire",
+        "strength": 250.0
+    },
+    {
+        "type": "Fire",
+        "strength": 430.0
+    },
+    {
+        "type": "Ice",
+        "strength": 250.0
+    },
+    {
+        "type": "Ice",
+        "strength": 450.0
+    },
+    {
+        "type": "Water",
+        "strength": 410.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 410.0
+    },
+    {
+        "type": "Water",
+        "strength": 300.0
+    },
+    {
+        "type": "Water",
+        "strength": 480.0
+    },
+    {
+        "type": "Ice",
+        "strength": 330.0
+    },
+    {
+        "type": "Water",
+        "strength": 485.0
+    },
+    {
+        "type": "Steel",
+        "strength": 465.0
+    },
+    {
+        "type": "Dark",
+        "strength": 330.0
+    },
+    {
+        "type": "Dark",
+        "strength": 500.0
+    },
+    {
+        "type": "Dark",
+        "strength": 600.0
+    },
+    {
+        "type": "Water",
+        "strength": 540.0
+    },
+    {
+        "type": "Ground",
+        "strength": 330.0
+    },
+    {
+        "type": "Ground",
+        "strength": 500.0
+    },
+    {
+        "type": "Normal",
+        "strength": 515.0
+    },
+    {
+        "type": "Normal",
+        "strength": 465.0
+    },
+    {
+        "type": "Normal",
+        "strength": 250.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 210.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 455.0
+    },
+    {
+        "type": "Ice",
+        "strength": 305.0
+    },
+    {
+        "type": "Electric",
+        "strength": 360.0
+    },
+    {
+        "type": "Fire",
+        "strength": 365.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Normal",
+        "strength": 540.0
+    },
+    {
+        "type": "Electric",
+        "strength": 580.0
+    },
+    {
+        "type": "Fire",
+        "strength": 580.0
+    },
+    {
+        "type": "Water",
+        "strength": 580.0
+    },
+    {
+        "type": "Rock",
+        "strength": 300.0
+    },
+    {
+        "type": "Rock",
+        "strength": 410.0
+    },
+    {
+        "type": "Rock",
+        "strength": 600.0
+    },
+    {
+        "type": "Rock",
+        "strength": 700.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Fire",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 310.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Grass",
+        "strength": 630.0
+    },
+    {
+        "type": "Fire",
+        "strength": 310.0
+    },
+    {
+        "type": "Fire",
+        "strength": 405.0
+    },
+    {
+        "type": "Fire",
+        "strength": 530.0
+    },
+    {
+        "type": "Fire",
+        "strength": 630.0
+    },
+    {
+        "type": "Water",
+        "strength": 310.0
+    },
+    {
+        "type": "Water",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 535.0
+    },
+    {
+        "type": "Water",
+        "strength": 635.0
+    },
+    {
+        "type": "Dark",
+        "strength": 220.0
+    },
+    {
+        "type": "Dark",
+        "strength": 420.0
+    },
+    {
+        "type": "Normal",
+        "strength": 240.0
+    },
+    {
+        "type": "Dark",
+        "strength": 240.0
+    },
+    {
+        "type": "Normal",
+        "strength": 420.0
+    },
+    {
+        "type": "Dark",
+        "strength": 420.0
+    },
+    {
+        "type": "Bug",
+        "strength": 195.0
+    },
+    {
+        "type": "Bug",
+        "strength": 205.0
+    },
+    {
+        "type": "Bug",
+        "strength": 395.0
+    },
+    {
+        "type": "Bug",
+        "strength": 205.0
+    },
+    {
+        "type": "Bug",
+        "strength": 385.0
+    },
+    {
+        "type": "Water",
+        "strength": 220.0
+    },
+    {
+        "type": "Water",
+        "strength": 340.0
+    },
+    {
+        "type": "Water",
+        "strength": 480.0
+    },
+    {
+        "type": "Grass",
+        "strength": 220.0
+    },
+    {
+        "type": "Grass",
+        "strength": 340.0
+    },
+    {
+        "type": "Grass",
+        "strength": 480.0
+    },
+    {
+        "type": "Normal",
+        "strength": 270.0
+    },
+    {
+        "type": "Normal",
+        "strength": 455.0
+    },
+    {
+        "type": "Water",
+        "strength": 270.0
+    },
+    {
+        "type": "Water",
+        "strength": 440.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 198.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 278.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 518.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 618.0
+    },
+    {
+        "type": "Bug",
+        "strength": 269.0
+    },
+    {
+        "type": "Bug",
+        "strength": 454.0
+    },
+    {
+        "type": "Grass",
+        "strength": 295.0
+    },
+    {
+        "type": "Grass",
+        "strength": 460.0
+    },
+    {
+        "type": "Normal",
+        "strength": 280.0
+    },
+    {
+        "type": "Normal",
+        "strength": 440.0
+    },
+    {
+        "type": "Normal",
+        "strength": 670.0
+    },
+    {
+        "type": "Bug",
+        "strength": 266.0
+    },
+    {
+        "type": "Bug",
+        "strength": 456.0
+    },
+    {
+        "type": "Bug",
+        "strength": 236.0
+    },
+    {
+        "type": "Normal",
+        "strength": 240.0
+    },
+    {
+        "type": "Normal",
+        "strength": 360.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 237.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 474.0
+    },
+    {
+        "type": "Normal",
+        "strength": 190.0
+    },
+    {
+        "type": "Rock",
+        "strength": 375.0
+    },
+    {
+        "type": "Normal",
+        "strength": 260.0
+    },
+    {
+        "type": "Normal",
+        "strength": 400.0
+    },
+    {
+        "type": "Dark",
+        "strength": 380.0
+    },
+    {
+        "type": "Dark",
+        "strength": 480.0
+    },
+    {
+        "type": "Steel",
+        "strength": 380.0
+    },
+    {
+        "type": "Steel",
+        "strength": 480.0
+    },
+    {
+        "type": "Steel",
+        "strength": 330.0
+    },
+    {
+        "type": "Steel",
+        "strength": 430.0
+    },
+    {
+        "type": "Steel",
+        "strength": 530.0
+    },
+    {
+        "type": "Steel",
+        "strength": 630.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 280.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 410.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 510.0
+    },
+    {
+        "type": "Electric",
+        "strength": 295.0
+    },
+    {
+        "type": "Electric",
+        "strength": 475.0
+    },
+    {
+        "type": "Electric",
+        "strength": 575.0
+    },
+    {
+        "type": "Electric",
+        "strength": 405.0
+    },
+    {
+        "type": "Electric",
+        "strength": 405.0
+    },
+    {
+        "type": "Bug",
+        "strength": 430.0
+    },
+    {
+        "type": "Bug",
+        "strength": 430.0
+    },
+    {
+        "type": "Grass",
+        "strength": 400.0
+    },
+    {
+        "type": "Poison",
+        "strength": 302.0
+    },
+    {
+        "type": "Poison",
+        "strength": 467.0
+    },
+    {
+        "type": "Water",
+        "strength": 305.0
+    },
+    {
+        "type": "Water",
+        "strength": 460.0
+    },
+    {
+        "type": "Water",
+        "strength": 560.0
+    },
+    {
+        "type": "Water",
+        "strength": 400.0
+    },
+    {
+        "type": "Water",
+        "strength": 500.0
+    },
+    {
+        "type": "Fire",
+        "strength": 305.0
+    },
+    {
+        "type": "Fire",
+        "strength": 460.0
+    },
+    {
+        "type": "Fire",
+        "strength": 560.0
+    },
+    {
+        "type": "Fire",
+        "strength": 470.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 330.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 470.0
+    },
+    {
+        "type": "Normal",
+        "strength": 360.0
+    },
+    {
+        "type": "Ground",
+        "strength": 290.0
+    },
+    {
+        "type": "Ground",
+        "strength": 340.0
+    },
+    {
+        "type": "Ground",
+        "strength": 520.0
+    },
+    {
+        "type": "Grass",
+        "strength": 335.0
+    },
+    {
+        "type": "Grass",
+        "strength": 475.0
+    },
+    {
+        "type": "Normal",
+        "strength": 310.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 490.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 590.0
+    },
+    {
+        "type": "Normal",
+        "strength": 458.0
+    },
+    {
+        "type": "Poison",
+        "strength": 458.0
+    },
+    {
+        "type": "Rock",
+        "strength": 460.0
+    },
+    {
+        "type": "Rock",
+        "strength": 460.0
+    },
+    {
+        "type": "Water",
+        "strength": 288.0
+    },
+    {
+        "type": "Water",
+        "strength": 468.0
+    },
+    {
+        "type": "Water",
+        "strength": 308.0
+    },
+    {
+        "type": "Water",
+        "strength": 468.0
+    },
+    {
+        "type": "Ground",
+        "strength": 300.0
+    },
+    {
+        "type": "Ground",
+        "strength": 500.0
+    },
+    {
+        "type": "Rock",
+        "strength": 355.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 355.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Water",
+        "strength": 200.0
+    },
+    {
+        "type": "Water",
+        "strength": 540.0
+    },
+    {
+        "type": "Normal",
+        "strength": 420.0
+    },
+    {
+        "type": "Fire",
+        "strength": 420.0
+    },
+    {
+        "type": "Water",
+        "strength": 420.0
+    },
+    {
+        "type": "Ice",
+        "strength": 420.0
+    },
+    {
+        "type": "Normal",
+        "strength": 440.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 295.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 455.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 555.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 295.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 455.0
+    },
+    {
+        "type": "Grass",
+        "strength": 460.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 455.0
+    },
+    {
+        "type": "Dark",
+        "strength": 465.0
+    },
+    {
+        "type": "Dark",
+        "strength": 565.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 260.0
+    },
+    {
+        "type": "Ice",
+        "strength": 300.0
+    },
+    {
+        "type": "Ice",
+        "strength": 480.0
+    },
+    {
+        "type": "Ice",
+        "strength": 580.0
+    },
+    {
+        "type": "Ice",
+        "strength": 290.0
+    },
+    {
+        "type": "Ice",
+        "strength": 410.0
+    },
+    {
+        "type": "Ice",
+        "strength": 530.0
+    },
+    {
+        "type": "Water",
+        "strength": 345.0
+    },
+    {
+        "type": "Water",
+        "strength": 485.0
+    },
+    {
+        "type": "Water",
+        "strength": 485.0
+    },
+    {
+        "type": "Water",
+        "strength": 485.0
+    },
+    {
+        "type": "Water",
+        "strength": 330.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 300.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 420.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Steel",
+        "strength": 300.0
+    },
+    {
+        "type": "Steel",
+        "strength": 420.0
+    },
+    {
+        "type": "Steel",
+        "strength": 600.0
+    },
+    {
+        "type": "Steel",
+        "strength": 700.0
+    },
+    {
+        "type": "Rock",
+        "strength": 580.0
+    },
+    {
+        "type": "Ice",
+        "strength": 580.0
+    },
+    {
+        "type": "Steel",
+        "strength": 580.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Water",
+        "strength": 670.0
+    },
+    {
+        "type": "Water",
+        "strength": 770.0
+    },
+    {
+        "type": "Ground",
+        "strength": 670.0
+    },
+    {
+        "type": "Ground",
+        "strength": 770.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 680.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 780.0
+    },
+    {
+        "type": "Steel",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 318.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Grass",
+        "strength": 525.0
+    },
+    {
+        "type": "Fire",
+        "strength": 309.0
+    },
+    {
+        "type": "Fire",
+        "strength": 405.0
+    },
+    {
+        "type": "Fire",
+        "strength": 534.0
+    },
+    {
+        "type": "Water",
+        "strength": 314.0
+    },
+    {
+        "type": "Water",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Normal",
+        "strength": 245.0
+    },
+    {
+        "type": "Normal",
+        "strength": 340.0
+    },
+    {
+        "type": "Normal",
+        "strength": 485.0
+    },
+    {
+        "type": "Normal",
+        "strength": 250.0
+    },
+    {
+        "type": "Normal",
+        "strength": 410.0
+    },
+    {
+        "type": "Bug",
+        "strength": 194.0
+    },
+    {
+        "type": "Bug",
+        "strength": 384.0
+    },
+    {
+        "type": "Electric",
+        "strength": 263.0
+    },
+    {
+        "type": "Electric",
+        "strength": 363.0
+    },
+    {
+        "type": "Electric",
+        "strength": 523.0
+    },
+    {
+        "type": "Grass",
+        "strength": 280.0
+    },
+    {
+        "type": "Grass",
+        "strength": 515.0
+    },
+    {
+        "type": "Rock",
+        "strength": 350.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 350.0
+    },
+    {
+        "type": "Rock",
+        "strength": 495.0
+    },
+    {
+        "type": "Bug",
+        "strength": 224.0
+    },
+    {
+        "type": "Bug",
+        "strength": 424.0
+    },
+    {
+        "type": "Bug",
+        "strength": 424.0
+    },
+    {
+        "type": "Bug",
+        "strength": 424.0
+    },
+    {
+        "type": "Bug",
+        "strength": 424.0
+    },
+    {
+        "type": "Bug",
+        "strength": 244.0
+    },
+    {
+        "type": "Bug",
+        "strength": 474.0
+    },
+    {
+        "type": "Electric",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 330.0
+    },
+    {
+        "type": "Water",
+        "strength": 495.0
+    },
+    {
+        "type": "Grass",
+        "strength": 275.0
+    },
+    {
+        "type": "Grass",
+        "strength": 450.0
+    },
+    {
+        "type": "Water",
+        "strength": 325.0
+    },
+    {
+        "type": "Water",
+        "strength": 475.0
+    },
+    {
+        "type": "Normal",
+        "strength": 482.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 348.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 498.0
+    },
+    {
+        "type": "Normal",
+        "strength": 350.0
+    },
+    {
+        "type": "Normal",
+        "strength": 480.0
+    },
+    {
+        "type": "Normal",
+        "strength": 580.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 495.0
+    },
+    {
+        "type": "Dark",
+        "strength": 505.0
+    },
+    {
+        "type": "Normal",
+        "strength": 310.0
+    },
+    {
+        "type": "Normal",
+        "strength": 452.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 285.0
+    },
+    {
+        "type": "Poison",
+        "strength": 329.0
+    },
+    {
+        "type": "Poison",
+        "strength": 479.0
+    },
+    {
+        "type": "Steel",
+        "strength": 300.0
+    },
+    {
+        "type": "Steel",
+        "strength": 500.0
+    },
+    {
+        "type": "Rock",
+        "strength": 290.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 310.0
+    },
+    {
+        "type": "Normal",
+        "strength": 220.0
+    },
+    {
+        "type": "Normal",
+        "strength": 411.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 485.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 300.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 410.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Normal",
+        "strength": 390.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 285.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 525.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 625.0
+    },
+    {
+        "type": "Ground",
+        "strength": 330.0
+    },
+    {
+        "type": "Ground",
+        "strength": 525.0
+    },
+    {
+        "type": "Poison",
+        "strength": 330.0
+    },
+    {
+        "type": "Poison",
+        "strength": 500.0
+    },
+    {
+        "type": "Poison",
+        "strength": 300.0
+    },
+    {
+        "type": "Poison",
+        "strength": 490.0
+    },
+    {
+        "type": "Grass",
+        "strength": 454.0
+    },
+    {
+        "type": "Water",
+        "strength": 330.0
+    },
+    {
+        "type": "Water",
+        "strength": 460.0
+    },
+    {
+        "type": "Water",
+        "strength": 345.0
+    },
+    {
+        "type": "Grass",
+        "strength": 334.0
+    },
+    {
+        "type": "Grass",
+        "strength": 494.0
+    },
+    {
+        "type": "Grass",
+        "strength": 594.0
+    },
+    {
+        "type": "Dark",
+        "strength": 510.0
+    },
+    {
+        "type": "Electric",
+        "strength": 535.0
+    },
+    {
+        "type": "Normal",
+        "strength": 515.0
+    },
+    {
+        "type": "Ground",
+        "strength": 535.0
+    },
+    {
+        "type": "Grass",
+        "strength": 535.0
+    },
+    {
+        "type": "Electric",
+        "strength": 540.0
+    },
+    {
+        "type": "Fire",
+        "strength": 540.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 545.0
+    },
+    {
+        "type": "Bug",
+        "strength": 515.0
+    },
+    {
+        "type": "Grass",
+        "strength": 525.0
+    },
+    {
+        "type": "Ice",
+        "strength": 525.0
+    },
+    {
+        "type": "Ground",
+        "strength": 510.0
+    },
+    {
+        "type": "Ice",
+        "strength": 530.0
+    },
+    {
+        "type": "Normal",
+        "strength": 535.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 518.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 618.0
+    },
+    {
+        "type": "Rock",
+        "strength": 525.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 525.0
+    },
+    {
+        "type": "Ice",
+        "strength": 480.0
+    },
+    {
+        "type": "Electric",
+        "strength": 440.0
+    },
+    {
+        "type": "Electric",
+        "strength": 520.0
+    },
+    {
+        "type": "Electric",
+        "strength": 520.0
+    },
+    {
+        "type": "Electric",
+        "strength": 520.0
+    },
+    {
+        "type": "Electric",
+        "strength": 520.0
+    },
+    {
+        "type": "Electric",
+        "strength": 520.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 580.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 580.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 580.0
+    },
+    {
+        "type": "Steel",
+        "strength": 680.0
+    },
+    {
+        "type": "Water",
+        "strength": 680.0
+    },
+    {
+        "type": "Fire",
+        "strength": 600.0
+    },
+    {
+        "type": "Normal",
+        "strength": 670.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 680.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Water",
+        "strength": 480.0
+    },
+    {
+        "type": "Water",
+        "strength": 600.0
+    },
+    {
+        "type": "Dark",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 600.0
+    },
+    {
+        "type": "Normal",
+        "strength": 720.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 308.0
+    },
+    {
+        "type": "Grass",
+        "strength": 413.0
+    },
+    {
+        "type": "Grass",
+        "strength": 528.0
+    },
+    {
+        "type": "Fire",
+        "strength": 308.0
+    },
+    {
+        "type": "Fire",
+        "strength": 418.0
+    },
+    {
+        "type": "Fire",
+        "strength": 528.0
+    },
+    {
+        "type": "Water",
+        "strength": 308.0
+    },
+    {
+        "type": "Water",
+        "strength": 413.0
+    },
+    {
+        "type": "Water",
+        "strength": 528.0
+    },
+    {
+        "type": "Normal",
+        "strength": 255.0
+    },
+    {
+        "type": "Normal",
+        "strength": 420.0
+    },
+    {
+        "type": "Normal",
+        "strength": 275.0
+    },
+    {
+        "type": "Normal",
+        "strength": 370.0
+    },
+    {
+        "type": "Normal",
+        "strength": 500.0
+    },
+    {
+        "type": "Dark",
+        "strength": 281.0
+    },
+    {
+        "type": "Dark",
+        "strength": 446.0
+    },
+    {
+        "type": "Grass",
+        "strength": 316.0
+    },
+    {
+        "type": "Grass",
+        "strength": 498.0
+    },
+    {
+        "type": "Fire",
+        "strength": 316.0
+    },
+    {
+        "type": "Fire",
+        "strength": 498.0
+    },
+    {
+        "type": "Water",
+        "strength": 316.0
+    },
+    {
+        "type": "Water",
+        "strength": 498.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 292.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 487.0
+    },
+    {
+        "type": "Normal",
+        "strength": 264.0
+    },
+    {
+        "type": "Normal",
+        "strength": 358.0
+    },
+    {
+        "type": "Normal",
+        "strength": 488.0
+    },
+    {
+        "type": "Electric",
+        "strength": 295.0
+    },
+    {
+        "type": "Electric",
+        "strength": 497.0
+    },
+    {
+        "type": "Rock",
+        "strength": 280.0
+    },
+    {
+        "type": "Rock",
+        "strength": 390.0
+    },
+    {
+        "type": "Rock",
+        "strength": 515.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 323.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 425.0
+    },
+    {
+        "type": "Ground",
+        "strength": 328.0
+    },
+    {
+        "type": "Ground",
+        "strength": 508.0
+    },
+    {
+        "type": "Normal",
+        "strength": 445.0
+    },
+    {
+        "type": "Normal",
+        "strength": 545.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 305.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 405.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 505.0
+    },
+    {
+        "type": "Water",
+        "strength": 294.0
+    },
+    {
+        "type": "Water",
+        "strength": 384.0
+    },
+    {
+        "type": "Water",
+        "strength": 509.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 465.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 465.0
+    },
+    {
+        "type": "Bug",
+        "strength": 310.0
+    },
+    {
+        "type": "Bug",
+        "strength": 380.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Bug",
+        "strength": 260.0
+    },
+    {
+        "type": "Bug",
+        "strength": 360.0
+    },
+    {
+        "type": "Bug",
+        "strength": 485.0
+    },
+    {
+        "type": "Grass",
+        "strength": 280.0
+    },
+    {
+        "type": "Grass",
+        "strength": 480.0
+    },
+    {
+        "type": "Grass",
+        "strength": 280.0
+    },
+    {
+        "type": "Grass",
+        "strength": 480.0
+    },
+    {
+        "type": "Water",
+        "strength": 460.0
+    },
+    {
+        "type": "Water",
+        "strength": 460.0
+    },
+    {
+        "type": "Ground",
+        "strength": 292.0
+    },
+    {
+        "type": "Ground",
+        "strength": 351.0
+    },
+    {
+        "type": "Ground",
+        "strength": 519.0
+    },
+    {
+        "type": "Fire",
+        "strength": 315.0
+    },
+    {
+        "type": "Ice",
+        "strength": 315.0
+    },
+    {
+        "type": "Fire",
+        "strength": 480.0
+    },
+    {
+        "type": "Fire",
+        "strength": 540.0
+    },
+    {
+        "type": "Ice",
+        "strength": 480.0
+    },
+    {
+        "type": "Ice",
+        "strength": 540.0
+    },
+    {
+        "type": "Grass",
+        "strength": 461.0
+    },
+    {
+        "type": "Bug",
+        "strength": 325.0
+    },
+    {
+        "type": "Bug",
+        "strength": 485.0
+    },
+    {
+        "type": "Dark",
+        "strength": 348.0
+    },
+    {
+        "type": "Dark",
+        "strength": 488.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 490.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 303.0
+    },
+    {
+        "type": "Ground",
+        "strength": 303.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 483.0
+    },
+    {
+        "type": "Water",
+        "strength": 355.0
+    },
+    {
+        "type": "Water",
+        "strength": 495.0
+    },
+    {
+        "type": "Rock",
+        "strength": 401.0
+    },
+    {
+        "type": "Rock",
+        "strength": 567.0
+    },
+    {
+        "type": "Poison",
+        "strength": 329.0
+    },
+    {
+        "type": "Poison",
+        "strength": 474.0
+    },
+    {
+        "type": "Dark",
+        "strength": 330.0
+    },
+    {
+        "type": "Dark",
+        "strength": 510.0
+    },
+    {
+        "type": "Normal",
+        "strength": 300.0
+    },
+    {
+        "type": "Normal",
+        "strength": 470.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 290.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 390.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 490.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 290.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 370.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 305.0
+    },
+    {
+        "type": "Water",
+        "strength": 473.0
+    },
+    {
+        "type": "Ice",
+        "strength": 305.0
+    },
+    {
+        "type": "Ice",
+        "strength": 395.0
+    },
+    {
+        "type": "Ice",
+        "strength": 535.0
+    },
+    {
+        "type": "Normal",
+        "strength": 335.0
+    },
+    {
+        "type": "Normal",
+        "strength": 475.0
+    },
+    {
+        "type": "Electric",
+        "strength": 428.0
+    },
+    {
+        "type": "Bug",
+        "strength": 315.0
+    },
+    {
+        "type": "Bug",
+        "strength": 495.0
+    },
+    {
+        "type": "Grass",
+        "strength": 294.0
+    },
+    {
+        "type": "Grass",
+        "strength": 464.0
+    },
+    {
+        "type": "Water",
+        "strength": 335.0
+    },
+    {
+        "type": "Water",
+        "strength": 480.0
+    },
+    {
+        "type": "Water",
+        "strength": 470.0
+    },
+    {
+        "type": "Bug",
+        "strength": 319.0
+    },
+    {
+        "type": "Bug",
+        "strength": 472.0
+    },
+    {
+        "type": "Grass",
+        "strength": 305.0
+    },
+    {
+        "type": "Grass",
+        "strength": 489.0
+    },
+    {
+        "type": "Steel",
+        "strength": 300.0
+    },
+    {
+        "type": "Steel",
+        "strength": 440.0
+    },
+    {
+        "type": "Steel",
+        "strength": 520.0
+    },
+    {
+        "type": "Electric",
+        "strength": 275.0
+    },
+    {
+        "type": "Electric",
+        "strength": 405.0
+    },
+    {
+        "type": "Electric",
+        "strength": 515.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 335.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 485.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 275.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 370.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 520.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 320.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 410.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 540.0
+    },
+    {
+        "type": "Ice",
+        "strength": 305.0
+    },
+    {
+        "type": "Ice",
+        "strength": 505.0
+    },
+    {
+        "type": "Ice",
+        "strength": 515.0
+    },
+    {
+        "type": "Bug",
+        "strength": 305.0
+    },
+    {
+        "type": "Bug",
+        "strength": 495.0
+    },
+    {
+        "type": "Ground",
+        "strength": 471.0
+    },
+    {
+        "type": "Ground",
+        "strength": 471.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 350.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 510.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 485.0
+    },
+    {
+        "type": "Ground",
+        "strength": 303.0
+    },
+    {
+        "type": "Ground",
+        "strength": 483.0
+    },
+    {
+        "type": "Dark",
+        "strength": 340.0
+    },
+    {
+        "type": "Dark",
+        "strength": 490.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Normal",
+        "strength": 350.0
+    },
+    {
+        "type": "Normal",
+        "strength": 510.0
+    },
+    {
+        "type": "Dark",
+        "strength": 370.0
+    },
+    {
+        "type": "Dark",
+        "strength": 510.0
+    },
+    {
+        "type": "Fire",
+        "strength": 484.0
+    },
+    {
+        "type": "Bug",
+        "strength": 484.0
+    },
+    {
+        "type": "Dark",
+        "strength": 300.0
+    },
+    {
+        "type": "Dark",
+        "strength": 420.0
+    },
+    {
+        "type": "Dark",
+        "strength": 600.0
+    },
+    {
+        "type": "Bug",
+        "strength": 360.0
+    },
+    {
+        "type": "Bug",
+        "strength": 550.0
+    },
+    {
+        "type": "Steel",
+        "strength": 580.0
+    },
+    {
+        "type": "Rock",
+        "strength": 580.0
+    },
+    {
+        "type": "Grass",
+        "strength": 580.0
+    },
+    {
+        "type": "Flying",
+        "strength": 580.0
+    },
+    {
+        "type": "Flying",
+        "strength": 580.0
+    },
+    {
+        "type": "Electric",
+        "strength": 580.0
+    },
+    {
+        "type": "Electric",
+        "strength": 580.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 680.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 680.0
+    },
+    {
+        "type": "Ground",
+        "strength": 600.0
+    },
+    {
+        "type": "Ground",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 660.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 700.0
+    },
+    {
+        "type": "Water",
+        "strength": 580.0
+    },
+    {
+        "type": "Water",
+        "strength": 580.0
+    },
+    {
+        "type": "Normal",
+        "strength": 600.0
+    },
+    {
+        "type": "Normal",
+        "strength": 600.0
+    },
+    {
+        "type": "Bug",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 313.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Fire",
+        "strength": 307.0
+    },
+    {
+        "type": "Fire",
+        "strength": 409.0
+    },
+    {
+        "type": "Fire",
+        "strength": 534.0
+    },
+    {
+        "type": "Water",
+        "strength": 314.0
+    },
+    {
+        "type": "Water",
+        "strength": 405.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Water",
+        "strength": 640.0
+    },
+    {
+        "type": "Normal",
+        "strength": 237.0
+    },
+    {
+        "type": "Normal",
+        "strength": 423.0
+    },
+    {
+        "type": "Normal",
+        "strength": 278.0
+    },
+    {
+        "type": "Fire",
+        "strength": 382.0
+    },
+    {
+        "type": "Fire",
+        "strength": 499.0
+    },
+    {
+        "type": "Bug",
+        "strength": 200.0
+    },
+    {
+        "type": "Bug",
+        "strength": 213.0
+    },
+    {
+        "type": "Bug",
+        "strength": 411.0
+    },
+    {
+        "type": "Fire",
+        "strength": 369.0
+    },
+    {
+        "type": "Fire",
+        "strength": 507.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 303.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 371.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 552.0
+    },
+    {
+        "type": "Grass",
+        "strength": 350.0
+    },
+    {
+        "type": "Grass",
+        "strength": 531.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 348.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 495.0
+    },
+    {
+        "type": "Normal",
+        "strength": 472.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 355.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 466.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 466.0
+    },
+    {
+        "type": "Steel",
+        "strength": 325.0
+    },
+    {
+        "type": "Steel",
+        "strength": 448.0
+    },
+    {
+        "type": "Steel",
+        "strength": 520.0
+    },
+    {
+        "type": "Steel",
+        "strength": 520.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 341.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 462.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 341.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 480.0
+    },
+    {
+        "type": "Dark",
+        "strength": 288.0
+    },
+    {
+        "type": "Dark",
+        "strength": 482.0
+    },
+    {
+        "type": "Rock",
+        "strength": 306.0
+    },
+    {
+        "type": "Rock",
+        "strength": 500.0
+    },
+    {
+        "type": "Poison",
+        "strength": 320.0
+    },
+    {
+        "type": "Poison",
+        "strength": 494.0
+    },
+    {
+        "type": "Water",
+        "strength": 330.0
+    },
+    {
+        "type": "Water",
+        "strength": 500.0
+    },
+    {
+        "type": "Electric",
+        "strength": 289.0
+    },
+    {
+        "type": "Electric",
+        "strength": 481.0
+    },
+    {
+        "type": "Rock",
+        "strength": 362.0
+    },
+    {
+        "type": "Rock",
+        "strength": 521.0
+    },
+    {
+        "type": "Rock",
+        "strength": 362.0
+    },
+    {
+        "type": "Rock",
+        "strength": 521.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 525.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 500.0
+    },
+    {
+        "type": "Electric",
+        "strength": 431.0
+    },
+    {
+        "type": "Rock",
+        "strength": 500.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 300.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 452.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Steel",
+        "strength": 470.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 309.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 474.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 335.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 335.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 335.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 335.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 494.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 494.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 494.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 494.0
+    },
+    {
+        "type": "Ice",
+        "strength": 304.0
+    },
+    {
+        "type": "Ice",
+        "strength": 514.0
+    },
+    {
+        "type": "Flying",
+        "strength": 245.0
+    },
+    {
+        "type": "Flying",
+        "strength": 535.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 680.0
+    },
+    {
+        "type": "Dark",
+        "strength": 680.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 486.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 708.0
+    },
+    {
+        "type": "Rock",
+        "strength": 600.0
+    },
+    {
+        "type": "Rock",
+        "strength": 700.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Fire",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 320.0
+    },
+    {
+        "type": "Grass",
+        "strength": 420.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Fire",
+        "strength": 320.0
+    },
+    {
+        "type": "Fire",
+        "strength": 420.0
+    },
+    {
+        "type": "Fire",
+        "strength": 530.0
+    },
+    {
+        "type": "Water",
+        "strength": 320.0
+    },
+    {
+        "type": "Water",
+        "strength": 420.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Normal",
+        "strength": 265.0
+    },
+    {
+        "type": "Normal",
+        "strength": 355.0
+    },
+    {
+        "type": "Normal",
+        "strength": 485.0
+    },
+    {
+        "type": "Normal",
+        "strength": 253.0
+    },
+    {
+        "type": "Normal",
+        "strength": 418.0
+    },
+    {
+        "type": "Bug",
+        "strength": 300.0
+    },
+    {
+        "type": "Bug",
+        "strength": 400.0
+    },
+    {
+        "type": "Bug",
+        "strength": 500.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 338.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 478.0
+    },
+    {
+        "type": "Fire",
+        "strength": 476.0
+    },
+    {
+        "type": "Electric",
+        "strength": 476.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 476.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 476.0
+    },
+    {
+        "type": "Bug",
+        "strength": 304.0
+    },
+    {
+        "type": "Bug",
+        "strength": 464.0
+    },
+    {
+        "type": "Rock",
+        "strength": 280.0
+    },
+    {
+        "type": "Rock",
+        "strength": 280.0
+    },
+    {
+        "type": "Rock",
+        "strength": 487.0
+    },
+    {
+        "type": "Rock",
+        "strength": 487.0
+    },
+    {
+        "type": "Rock",
+        "strength": 487.0
+    },
+    {
+        "type": "Water",
+        "strength": 175.0
+    },
+    {
+        "type": "Water",
+        "strength": 620.0
+    },
+    {
+        "type": "Poison",
+        "strength": 305.0
+    },
+    {
+        "type": "Poison",
+        "strength": 495.0
+    },
+    {
+        "type": "Ground",
+        "strength": 385.0
+    },
+    {
+        "type": "Ground",
+        "strength": 500.0
+    },
+    {
+        "type": "Water",
+        "strength": 269.0
+    },
+    {
+        "type": "Water",
+        "strength": 454.0
+    },
+    {
+        "type": "Grass",
+        "strength": 250.0
+    },
+    {
+        "type": "Grass",
+        "strength": 480.0
+    },
+    {
+        "type": "Grass",
+        "strength": 285.0
+    },
+    {
+        "type": "Grass",
+        "strength": 405.0
+    },
+    {
+        "type": "Poison",
+        "strength": 320.0
+    },
+    {
+        "type": "Poison",
+        "strength": 480.0
+    },
+    {
+        "type": "Normal",
+        "strength": 340.0
+    },
+    {
+        "type": "Normal",
+        "strength": 500.0
+    },
+    {
+        "type": "Grass",
+        "strength": 210.0
+    },
+    {
+        "type": "Grass",
+        "strength": 290.0
+    },
+    {
+        "type": "Grass",
+        "strength": 510.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 485.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 490.0
+    },
+    {
+        "type": "Bug",
+        "strength": 230.0
+    },
+    {
+        "type": "Bug",
+        "strength": 530.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 320.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 480.0
+    },
+    {
+        "type": "Water",
+        "strength": 410.0
+    },
+    {
+        "type": "Normal",
+        "strength": 534.0
+    },
+    {
+        "type": "Normal",
+        "strength": 570.0
+    },
+    {
+        "type": "Rock",
+        "strength": 440.0
+    },
+    {
+        "type": "Rock",
+        "strength": 500.0
+    },
+    {
+        "type": "Normal",
+        "strength": 480.0
+    },
+    {
+        "type": "Fire",
+        "strength": 485.0
+    },
+    {
+        "type": "Electric",
+        "strength": 435.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 476.0
+    },
+    {
+        "type": "Water",
+        "strength": 475.0
+    },
+    {
+        "type": "Normal",
+        "strength": 485.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 517.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 300.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 420.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Electric",
+        "strength": 570.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 570.0
+    },
+    {
+        "type": "Grass",
+        "strength": 570.0
+    },
+    {
+        "type": "Water",
+        "strength": 570.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 200.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 400.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Rock",
+        "strength": 570.0
+    },
+    {
+        "type": "Bug",
+        "strength": 570.0
+    },
+    {
+        "type": "Bug",
+        "strength": 570.0
+    },
+    {
+        "type": "Electric",
+        "strength": 570.0
+    },
+    {
+        "type": "Steel",
+        "strength": 570.0
+    },
+    {
+        "type": "Grass",
+        "strength": 570.0
+    },
+    {
+        "type": "Dark",
+        "strength": 570.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 600.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 680.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 754.0
+    },
+    {
+        "type": "Steel",
+        "strength": 600.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 600.0
+    },
+    {
+        "type": "Poison",
+        "strength": 420.0
+    },
+    {
+        "type": "Poison",
+        "strength": 540.0
+    },
+    {
+        "type": "Rock",
+        "strength": 570.0
+    },
+    {
+        "type": "Fire",
+        "strength": 570.0
+    },
+    {
+        "type": "Electric",
+        "strength": 600.0
+    },
+    {
+        "type": "Steel",
+        "strength": 300.0
+    },
+    {
+        "type": "Steel",
+        "strength": 600.0
+    },
+    {
+        "type": "Grass",
+        "strength": 310.0
+    },
+    {
+        "type": "Grass",
+        "strength": 420.0
+    },
+    {
+        "type": "Grass",
+        "strength": 530.0
+    },
+    {
+        "type": "Fire",
+        "strength": 310.0
+    },
+    {
+        "type": "Fire",
+        "strength": 420.0
+    },
+    {
+        "type": "Fire",
+        "strength": 530.0
+    },
+    {
+        "type": "Water",
+        "strength": 310.0
+    },
+    {
+        "type": "Water",
+        "strength": 420.0
+    },
+    {
+        "type": "Water",
+        "strength": 530.0
+    },
+    {
+        "type": "Normal",
+        "strength": 275.0
+    },
+    {
+        "type": "Normal",
+        "strength": 460.0
+    },
+    {
+        "type": "Flying",
+        "strength": 245.0
+    },
+    {
+        "type": "Flying",
+        "strength": 365.0
+    },
+    {
+        "type": "Flying",
+        "strength": 495.0
+    },
+    {
+        "type": "Bug",
+        "strength": 180.0
+    },
+    {
+        "type": "Bug",
+        "strength": 335.0
+    },
+    {
+        "type": "Bug",
+        "strength": 505.0
+    },
+    {
+        "type": "Dark",
+        "strength": 245.0
+    },
+    {
+        "type": "Dark",
+        "strength": 455.0
+    },
+    {
+        "type": "Grass",
+        "strength": 250.0
+    },
+    {
+        "type": "Grass",
+        "strength": 460.0
+    },
+    {
+        "type": "Normal",
+        "strength": 270.0
+    },
+    {
+        "type": "Normal",
+        "strength": 490.0
+    },
+    {
+        "type": "Water",
+        "strength": 284.0
+    },
+    {
+        "type": "Water",
+        "strength": 485.0
+    },
+    {
+        "type": "Electric",
+        "strength": 270.0
+    },
+    {
+        "type": "Electric",
+        "strength": 490.0
+    },
+    {
+        "type": "Rock",
+        "strength": 240.0
+    },
+    {
+        "type": "Rock",
+        "strength": 410.0
+    },
+    {
+        "type": "Rock",
+        "strength": 510.0
+    },
+    {
+        "type": "Grass",
+        "strength": 260.0
+    },
+    {
+        "type": "Grass",
+        "strength": 485.0
+    },
+    {
+        "type": "Grass",
+        "strength": 485.0
+    },
+    {
+        "type": "Ground",
+        "strength": 315.0
+    },
+    {
+        "type": "Ground",
+        "strength": 510.0
+    },
+    {
+        "type": "Flying",
+        "strength": 475.0
+    },
+    {
+        "type": "Water",
+        "strength": 280.0
+    },
+    {
+        "type": "Water",
+        "strength": 490.0
+    },
+    {
+        "type": "Electric",
+        "strength": 242.0
+    },
+    {
+        "type": "Electric",
+        "strength": 502.0
+    },
+    {
+        "type": "Electric",
+        "strength": 502.0
+    },
+    {
+        "type": "Fire",
+        "strength": 305.0
+    },
+    {
+        "type": "Fire",
+        "strength": 525.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 310.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 480.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 308.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 508.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 265.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 370.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 510.0
+    },
+    {
+        "type": "Dark",
+        "strength": 265.0
+    },
+    {
+        "type": "Dark",
+        "strength": 370.0
+    },
+    {
+        "type": "Dark",
+        "strength": 510.0
+    },
+    {
+        "type": "Dark",
+        "strength": 520.0
+    },
+    {
+        "type": "Steel",
+        "strength": 440.0
+    },
+    {
+        "type": "Ghost",
+        "strength": 510.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 507.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 520.0
+    },
+    {
+        "type": "Ground",
+        "strength": 483.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 270.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 495.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 470.0
+    },
+    {
+        "type": "Electric",
+        "strength": 435.0
+    },
+    {
+        "type": "Ice",
+        "strength": 185.0
+    },
+    {
+        "type": "Ice",
+        "strength": 475.0
+    },
+    {
+        "type": "Rock",
+        "strength": 470.0
+    },
+    {
+        "type": "Ice",
+        "strength": 470.0
+    },
+    {
+        "type": "Ice",
+        "strength": 470.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 475.0
+    },
+    {
+        "type": "Psychic",
+        "strength": 475.0
+    },
+    {
+        "type": "Electric",
+        "strength": 436.0
+    },
+    {
+        "type": "Electric",
+        "strength": 436.0
+    },
+    {
+        "type": "Steel",
+        "strength": 330.0
+    },
+    {
+        "type": "Steel",
+        "strength": 500.0
+    },
+    {
+        "type": "Electric",
+        "strength": 505.0
+    },
+    {
+        "type": "Electric",
+        "strength": 505.0
+    },
+    {
+        "type": "Water",
+        "strength": 505.0
+    },
+    {
+        "type": "Water",
+        "strength": 505.0
+    },
+    {
+        "type": "Steel",
+        "strength": 535.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 270.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 410.0
+    },
+    {
+        "type": "Dragon",
+        "strength": 600.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 720.0
+    },
+    {
+        "type": "Fairy",
+        "strength": 670.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 720.0
+    },
+    {
+        "type": "Fighting",
+        "strength": 670.0
+    },
+    {
+        "type": "Poison",
+        "strength": 690.0
+    },
+    {
+        "type": "Poison",
+        "strength": 1125.0
+    }
+]
